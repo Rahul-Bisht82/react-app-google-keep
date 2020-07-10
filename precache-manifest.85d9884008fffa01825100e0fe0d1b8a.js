@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b2d31ff74df8d0a43da110d609431f5",
+    "revision": "edc97e7a5dc82fea5a14d8f5f0adad73",
     "url": "/react-app-google-keep/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-app-google-keep/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "9cda0b0f8407350125ab",
+    "revision": "ac98a6b6656fa0330fb1",
     "url": "/react-app-google-keep/static/css/main.f94e64bb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-app-google-keep/static/js/2.4f8f0342.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9cda0b0f8407350125ab",
-    "url": "/react-app-google-keep/static/js/main.a7711662.chunk.js"
+    "revision": "ac98a6b6656fa0330fb1",
+    "url": "/react-app-google-keep/static/js/main.1e586ff0.chunk.js"
   },
   {
     "revision": "1424a5ec82bdf01383cf",

@@ -8,7 +8,7 @@ const App=()=> {
 
   const [additem, setadditem] =useState([]);
   useEffect(()=>{
-    document.title = "Google keep clone || web-app";
+    document.title = "Google-keep-clone || web-app";
   },[]);
 
   const addNote=(note)=>{

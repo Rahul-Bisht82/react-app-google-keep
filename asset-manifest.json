@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-app-google-keep/static/css/main.f94e64bb.chunk.css",
+    "main.js": "/react-app-google-keep/static/js/main.42bcf126.chunk.js",
+    "main.js.map": "/react-app-google-keep/static/js/main.42bcf126.chunk.js.map",
+    "runtime-main.js": "/react-app-google-keep/static/js/runtime-main.fd1b7142.js",
+    "runtime-main.js.map": "/react-app-google-keep/static/js/runtime-main.fd1b7142.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/react-app-google-keep/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4f8f0342.chunk.js": "/react-app-google-keep/static/js/2.4f8f0342.chunk.js",
+    "static/js/2.4f8f0342.chunk.js.map": "/react-app-google-keep/static/js/2.4f8f0342.chunk.js.map",
+    "index.html": "/react-app-google-keep/index.html",
+    "precache-manifest.b2d3f0addd3456148f8b49e6fc43f807.js": "/react-app-google-keep/precache-manifest.b2d3f0addd3456148f8b49e6fc43f807.js",
+    "service-worker.js": "/react-app-google-keep/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/react-app-google-keep/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.f94e64bb.chunk.css.map": "/react-app-google-keep/static/css/main.f94e64bb.chunk.css.map",
+    "static/js/2.4f8f0342.chunk.js.LICENSE.txt": "/react-app-google-keep/static/js/2.4f8f0342.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd1b7142.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4f8f0342.chunk.js",
+    "static/css/main.f94e64bb.chunk.css",
+    "static/js/main.42bcf126.chunk.js"
+  ]
+}

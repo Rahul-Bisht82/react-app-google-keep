@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState,useEffect } from 'react';
 import Header from './Header';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import Footer from './Footer';
@@ -7,6 +7,10 @@ import Note from './Note';
 const App=()=> {
 
   const [additem, setadditem] =useState([]);
+  useEffect(()=>{
+    document.title = "Google keep clone || web-app";
+  },[]);
+
   const addNote=(note)=>{
     setadditem((preval)=>{
       return[...preval,note];
